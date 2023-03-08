@@ -1,0 +1,46 @@
+DDL--DATA DEFINATION LANGUAGE
+-------------
+create
+alter
+drop
+truncate
+
+-----------------------
+datatype
+
+varchar
+int
+date
+float
+boolean
+---
+variable character
+------------------
+a to z
+0 to 9
+
+
+constraints
+--------------
+check----Helps to control the values being inserted into a table column.
+
+notnull--Helps to ensure that the column value in every row is never blank or empty or null.
+
+unique--Helps to ensure that the column value in every row unique.
+
+primary key--Ensure that the column value in every row unique and no null values.
+
+Foreign key--Helps to form parent child relationship between tables.child table references 
+column values from parent table.
+
+
+
+
+
+
+
+
+
+
+
+
